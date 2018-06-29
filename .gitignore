@@ -16,7 +16,7 @@ Desktop.ini
 # keep some hiddens
 !.htaccess
 !/.gitignore
-#!/.travis.yml
+
 
 # additional ignores for php
 api/
