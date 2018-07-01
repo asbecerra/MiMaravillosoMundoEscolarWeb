@@ -52,7 +52,7 @@
 <div id="wb_Text6">
 <span id="wb_uid6">Resta</span></div>
 <div id="wb_Text7">
-<span id="wb_uid7">Division</span></div>
+<span id="wb_uid7">División</span></div>
 <div id="wb_Text8">
 <span id="wb_uid8">Suma</span></div>
 <div id="wb_Text10">
